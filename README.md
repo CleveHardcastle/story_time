@@ -4,4 +4,6 @@ This is the first sentence of the story. From the moment he walked into the casi
 
 Hello
 
+
 He died.
+
